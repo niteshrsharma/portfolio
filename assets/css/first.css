@@ -1,0 +1,11 @@
+.client-admin{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.client-admin>*{
+    width: 40%;
+    border: none;
+    border-radius: 10px;
+}
